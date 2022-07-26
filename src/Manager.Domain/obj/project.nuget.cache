@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3CqgvjxdBkqgQklDGyd2E54b+n/sa1M72RQkfgMC2Lg21s6Ds2triZjN5jwRoGrGbUo6LT2fQnY9n+ZKRQsOQA==",
+  "dgSpecHash": "aVrZgSmLVpcU/4+PKAwAB4omZ2uXDKcXMzwk0oCW2nDYLRFZKgSLJSCqUOKu+/DZQRllrdpigqAjv+6UvZY4fw==",
   "success": true,
   "projectFilePath": "D:\\projetos\\manager-api\\src\\Manager.Domain\\Manager.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Léo\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
