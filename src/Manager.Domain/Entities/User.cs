@@ -1,8 +1,7 @@
-using System;
-using System.Collections.Generic;
 using Manager.Domain.Validators;
 
-namespace Manager.Domain.Entities{
+namespace Manager.Domain.Entities
+{
     public class User : Base{
 
 
